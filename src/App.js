@@ -14,7 +14,9 @@ var emojiDictionary = {
   "🤒": "fever",
   "🥳": "party",
   "😏": "smirking",
-  "🤑": "money-mouth"
+  "🤑": "money-mouth",
+  "🤪": "zany",
+  "🥶": "freezing"
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
